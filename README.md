@@ -1,4 +1,5 @@
 # Proto_Peek
+![CI](https://github.com/realMNohgee/Proto_Peek/actions/workflows/ci.yml/badge.svg) ![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 **Protocol Buffer inspector. Parse .proto files, decode raw protobuf, inspect field values. Zero deps.**
 
